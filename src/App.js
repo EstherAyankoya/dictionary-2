@@ -8,7 +8,7 @@ function App() {
       <div className="container">
     <header class="text-center">Esther's Dictionary App</header>
         <main><Dictionary defaultKeyword="hello" /></main>
-        <footer>
+        <footer class="text-center">
           This project was coded by Esther Ayankoya
 
           and is{" "}
@@ -21,7 +21,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/sites/celebrated-kashata-43cd94/overview"
+            href="https://app.netlify.com/sites/adorable-tartufo-0640d5/overview"
             target="_blank"
             rel="noopener noreferrer"
           >
