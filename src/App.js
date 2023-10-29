@@ -6,14 +6,14 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-    <header>Esther's Dictionary App</header>
+    <header class="text-center">Esther's Dictionary App</header>
         <main><Dictionary defaultKeyword="hello" /></main>
         <footer>
           This project was coded by Esther Ayankoya
 
           and is{" "}
           <a
-            href="https://github.com/EstherAyankoya/Dictionary-project"
+            href="https://github.com/EstherAyankoya/dictionary-2"
             target="_blank"
             rel="noopener noreferrer"
           >
